@@ -1,0 +1,38 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw source documents
+data/raw/
+
+# Processed documents
+data/processed/
+
+# Vector store
+backend/data/vector_store/
+
+# Generated image datasets
+data/images/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,52 @@
+﻿question,retrieved_source,answer,retrieval_relevant,grounded,correct
+What are the rules for student attendance?,14_UG Academic Regulations 2024-2028 p.6; 09_Student Attendance Policy p.3; 09_Student Attendance Policy p.4,"According to the provided documents, the rules for student attendance are as follows:
+
+* Students are required to attend any teaching sessions [Source 1, Page 6].
+* The University's Attendance Policy applies from teaching Week 2 to teaching Week 11 [Source 3, Page 4].
+* A specific number of core teaching sessions is missed, the Module Team shall arrange for a Student Absence flag to be inserted in a student's record on the Student Record System (SRS) [Source 3, Page 4].
+
+Please note that the specific requirements and procedures for student attendance can be found in the Student Attendance Policy [Source 2, Page 3], which outlines the penalties for non-attendance [Source 2, Page 5].",MANUAL CHECK,MANUAL CHECK,MANUAL CHECK
+What is academic misconduct?,BUE_Student_Academic_Handbook_2026-27 p.32; BUE_Student_Academic_Handbook_2026-27 p.32; 19_Academic Misconduct Procedure - Copy 1 p.6,"Academic misconduct occurs when a student gains, or attempts to gain, an unfair academic advantage or does not follow the University’s requirements for academic work or assessment. [Source 1, BUE_Student_Academic_Handbook_2026-27, Page 32]
+
+Additionally, academic misconduct is described as occurring when a student does not work honestly, acknowledge the sources and ideas they use, and follow the requirements set for each assessment. [Source 2, BUE_Student_Academic_Handbook_2026-27, Page 32]
+
+It is not specified in the provided documents what are the exact types of conduct that may be considered academic misconduct, but examples include plagiarism. [Source 1, BUE_Student_Academic_Handbook_2026-27, Page 32]",MANUAL CHECK,MANUAL CHECK,MANUAL CHECK
+How can a student make an academic appeal?,14_UG Academic Regulations 2024-2028 p.39; 14_UG Academic Regulations 2024-2028 p.40; 20_Academic Appeal Procedure p.4,"According to the provided documents, a student can make an academic appeal by stating clearly the grounds of the appeal and supporting their submission with clear and appropriate evidence. Additionally, the student must use their own BUE account and cannot submit an appeal on behalf of another student [Source 1, 2]. The Academic Appeal procedure also follows a two-stage decision-making process, with the first stage involving an Appeal Review Panel [Source 2].",MANUAL CHECK,MANUAL CHECK,MANUAL CHECK
+How can a student submit a complaint?,21a_Student Complaints Procedure p.10; 21a_Student Complaints Procedure p.9; 21a_Student Complaints Procedure p.12,"According to the provided documents, a student can submit a complaint by:
+
+* Providing a Student Complaint Form with all relevant evidence, and submitting it to The Student Hub [Source 1, Page 10]
+* Completing the Student Complaint Form to give full details of the complaint and submitting it [Source 2, Page 15.8]
+* No specific details on submitting a complaint are mentioned in Source 3.
+
+Therefore, the recommended procedure is to submit a Student Complaint Form to The Student Hub.",MANUAL CHECK,MANUAL CHECK,MANUAL CHECK
+What support is available for weak students?,09_Student Attendance Policy p.4; 05_Early Identification of At-Risk Students and Support of Weak Students Protocol p.5; 07_Reasonable Adjustments (Accommodations) Procedure p.8,"Based on the provided context, it appears that there is no specific support mentioned for ""weak students"" in the provided documents. However, it is mentioned in [Source 2] that there is a distinction between an ""at-risk student"" and a ""weak student"" and that appropriate performance indicators shall be used to ensure the success of the proposed programmes. Additionally, [Source 3] mentions that if a student is unsure which procedure they should use, they can contact their Faculty Office, the Academic Services department or The Student Hub for further information and guidance.
+
+However, I must clarify that the term ""weak student"" is not explicitly defined in the provided context, and it is possible that the university may have a different understanding or classification of this term.",MANUAL CHECK,MANUAL CHECK,MANUAL CHECK
+What is the role of the Personal Academic Tutor?,BUE_Student_Academic_Handbook_2026-27 p.25; 06a_Personal Academic Tutor Policy p.4; 06a_Personal Academic Tutor Policy p.4,"Based on the provided context, the role of the Personal Academic Tutor (PAT) is to:
+
+* Help students make a successful transition to university (Source 1, Page 25)
+* Provide academic guidance and general support (Source 1, Page 25)
+* Offer pro-active academic and pastoral support on a planned basis for Preparatory Year students (Source 3, Page 4)
+* Provide academic support, including some pastoral support primarily through referral to appropriate services (Source 3, Page 4)
+
+Overall, the Personal Academic Tutor plays a crucial role in supporting students' academic journey and helping them achieve their full academic and personal potential.",MANUAL CHECK,MANUAL CHECK,MANUAL CHECK
+What reasonable adjustments can students receive?,07_Reasonable Adjustments (Accommodations) Procedure p.7; 07_Reasonable Adjustments (Accommodations) Procedure p.7; 07_Reasonable Adjustments (Accommodations) Procedure p.4,"Based on the provided context, the procedure for Reasonable Adjustments (Accommodations) does not explicitly list the specific reasonable adjustments that students can receive. However, it emphasizes the importance of individualized Reasonable Adjustments that meet the needs of the student rather than providing a generic response to a class or type of disability [Source 1].
+
+It is mentioned that students are responsible for considering their needs and monitoring their arrangements closely, and if a student's condition changes significantly or worsens over time, they might need to revisit their agreed Reasonable Adjustments [Source 2].
+
+There is no explicit mention of the specific types of Reasonable Adjustments that students can receive. However, it is stated that students should contact The Student Hub if they require changes to their Reasonable Adjustments [Source 3].
+
+Therefore, the information on the specific reasonable adjustments that students can receive is not explicitly stated in the provided context.",MANUAL CHECK,MANUAL CHECK,MANUAL CHECK
+What are the academic regulations for undergraduate students?,14_UG Academic Regulations 2024-2028 p.4; BUE_Student_Academic_Handbook_2026-27 p.17; 14_UG Academic Regulations 2024-2028 p.4,"Based on the provided context, the academic regulations for undergraduate students are outlined in the ""Undergraduate Academic Regulations"" documents.
+
+According to [Source 1], these regulations were approved by the University Teaching and Learning Committee and University Council in 2023/24 and take effect from the beginning of 2024/25.
+
+Additionally, [Source 2] states that the Undergraduate Academic Regulations set out the University's overarching academic framework, including requirements relating to registration, credits, assessment, progression, academic status, and awards.
+
+It is also noted in [Source 3] that the Undergraduate Academic Regulations are reviewed by University Council every two academic years, and any change must receive University Council approval.
+
+Therefore, the academic regulations for undergraduate students are those outlined in the Undergraduate Academic Regulations documents, which cover requirements such as registration, credits, assessment, progression, academic status, and awards.",MANUAL CHECK,MANUAL CHECK,MANUAL CHECK
+What are the consequences of academic misconduct?,BUE_Student_Academic_Handbook_2026-27 p.32; BUE_Student_Academic_Handbook_2026-27 p.32; 19_Academic Misconduct Procedure - Copy 1 p.6,"Based on the provided context, the consequences of academic misconduct are not explicitly stated. However, [Source 3] mentions that in cases of alleged academic misconduct, the student may be ejected from the examination venue, their examination attempt forfeited, and the case investigated by the University's Legal Department. Additionally, the student may be referred to the Disciplinary Committee as per Article 226 of the University's by-laws.
+
+It is important to note that the context does not provide a comprehensive list of consequences for academic misconduct. For more information, please refer to the University's Academic Misconduct Procedure or consult with the University's Legal Department.",MANUAL CHECK,MANUAL CHECK,MANUAL CHECK
+Where can students find important academic information?,BUE_Student_Academic_Handbook_2026-27 p.24; BUE_Student_Academic_Handbook_2026-27 p.53; BUE_Student_Academic_Handbook_2026-27 p.24,"According to the provided context, students can find important academic information in the Library, which is a central knowledge gateway where students can access specialist information to support their studies [Source 3]. The Library provides access to a wide range of resources, including academic databases and journals, books and textbooks, e-books and online resources [Source 3]. Additionally, the Library team can help students find, access and use academic information effectively, providing guidance on finding reliable sources, using databases, conducting academic research, and more [Source 1].",MANUAL CHECK,MANUAL CHECK,MANUAL CHECK

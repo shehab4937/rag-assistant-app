@@ -1,0 +1,75 @@
+UNIGUIDE AI
+PHASE 1 — MANUAL DATA INSPECTION
+
+01_Student Charter.pdf
+
+Text selectable: Yes
+
+Tables: No
+
+Repeated headers/footers: Yes — "The British University in Egypt Student Charter" (Page 1); isolated page number digits
+
+Page numbers: Yes — "1" (Pages 2, 4, 5), "4" and "5" (Page 3)
+
+Broken words/lines: Yes — list items run together, e.g., "academic pursuits.2) Active Engagement:", "diverse student communities2) Student Voice:", "classroom.2) Student Voice:"
+
+Other messy content: Duplicated content on Page 5 (items "2) Student Voice" and "3) Opportunities" repeated); table of contents page numbers do not match actual content; "UTLC and Senate" abbreviation unexpanded; inconsistent use of "The" before university name
+
+09_Student Attendance Policy.pdf
+
+Text selectable: Yes
+
+Tables: No
+
+Repeated headers/footers: Yes — "The British University in Egypt Student Attendance Policy"; isolated page number digits
+
+Page numbers: Yes — "1" (Pages 2, 4), "4" (Page 3)
+
+Broken words/lines: Yes — numbered lists run into text, e.g., "teaching Week 11.3. Once a student", "final exam.7. Where there is no unseen exam", "at 75% of the core sessions (unless otherwise stated by Faculty by law). This requirement"
+
+Other messy content: Numbering inconsistency on Page 4 (list starts "1., 2., 3., 4." then restarts "1., 2., 3."); lowercase "university" in "The British university in Egypt" (Page 4); missing spacing between numbered items; inconsistent use of "Personal Tutor" vs "Personal Advisors" (Page 5)
+
+14_UG Academic Regulations 2024-2028.pdf
+
+Text selectable: Yes
+
+Tables: Yes — Page 27 (Academic Misconduct penalties, malformed with HTML <td> tags); Page 35 (Egyptian track classification); Pages 35–36 (LSBU UK classification); Pages 36–37 (MMU classification, Method one and Method two); Page 37 (SCQF classification)
+
+Repeated headers/footers: Yes — "2024-28" (Page 1); "March 2025" (Page 5); isolated page number "1" (Pages 4–7); "March 2025 Page 12 of 43" (Page 13)
+
+Page numbers: Yes — "1" (Pages 4–7), "Page 12 of 43" (Page 13)
+
+Broken words/lines: Yes — many numbered items run together, e.g., "industry and the wider community.2.2 Entrants admitted", "qualification they have registered for.12.3 Further information", "Academic Services.AS@bue.edu.eg"
+
+Other messy content: Duplicate headings — "10.7 To qualify for an award..." (Page 34), "10.19 The classification..." (Page 36), "11.16 The Appeal Review Panel..." (Pages 39–40); malformed table on Page 27 (HTML tags visible); typos — "stECulated" (Page 7), "capostone1"/"capostone 2" (Page 16), "1f" (Page 36); wrong institution name "Margaret University" instead of "Queen Margaret University" (Pages 6, 17); malformed URL "https://www.bue.edu.eq/academic-services" (should be .eg); inconsistent spacing "Pharm D" vs "Pharm D Clinical"; glossary entries run together (Page 43)
+
+19_Academic Misconduct Procedure - Copy 1.pdf
+
+Text selectable: Yes
+
+Tables: Yes — Page 7 (penalties table, malformed with HTML <td> tags visible, structure broken)
+
+Repeated headers/footers: Yes — "The British University in Egypt Academic Misconduct Procedure"; isolated page number digits
+
+Page numbers: Yes — "4" (Page 3), "1" (Page 4)
+
+Broken words/lines: Yes — numbered items run together, e.g., "specific sanctions are applied2.2.2 Failing to comply", "academic misconduct.2.6 Faculties provide"
+
+Other messy content: Duplicate entries — "2.2.4 Misleading examiners..." and "2.2.5 Use of essay writing services..." appear twice (Page 5); malformed table on Page 7 (HTML tags visible); numbering gaps — Section 4 jumps from "4.2" to "4.3" (4.1 missing from Page 8); nested numbering inconsistency (3.1.1, 3.1.2, 3.1.3 under 3.1); inconsistent use of "SAR" vs "Senior Assistant Registrar" (Page 6)
+
+BUE_Student_Academic_Handbook_2026-27.pdf
+
+Text selectable: Yes
+
+Tables: Yes — Page 8 (Faculties and Academic Clusters); Page 36 (Maximum Registration Period); Page 46 (Egyptian-track classification); Page 46 (UK classification); Page 55 ("Who Can Help Me With...?"); Pages 56–58 (Key Academic Dates — Semester One, Semester Two, Summer Assessment Period); Page 58 (Important Links and Policies)
+
+Repeated headers/footers: Yes — "2026 / 2027" (Pages 2, 4, 16, 21, 48); "The British University in Egypt | Student Academic Handbook 2026-2027" (Pages 8, 25, 31, 41, 47, 53, 56–58)
+
+Page numbers: Yes — isolated digits "1" on Pages 2, 3, 7, 9, 18, 20, 24, 26, 28, 32, 50, 51, 52
+
+Broken words/lines: Yes — list items run together, e.g., "students should refer to:UG Academic Regulations 2024-2028 Faculty Student Handbook", "contact your Faculty or Academic Services.What is the deadline"
+
+Other messy content: Typo "1f a student" (should be "If") Page 36; duplicate heading "Module EvaluationModule Evaluation" (Page 43); lowercase sentence start "the Faculty Student Support Officer (SSO) may help..." (Pages 41, 42); table of contents formatting extra dot, e.g., ".11 Dual Degree Awards. 18" (Page 2); inconsistent apostrophe usage "the University's" vs "the University's"; isolated "1" as page number without context on multiple pages; section numbering in TOC does not always match actual section numbers
+
+CONCLUSION:
+The documents are text-extractable and suitable for a text-based RAG system. However, all five PDFs contain formatting issues that require preprocessing before ingestion. Common issues across all documents include repeated headers/footers, isolated page numbers, broken line breaks, and numbered lists running into body text without proper separation.
